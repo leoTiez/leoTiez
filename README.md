@@ -1,4 +1,4 @@
-[header](header.jpg)
+![header](header.jpg)
 
 (c) Photo by <a href="https://unsplash.com/@nci?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">National Cancer Institute</a> on <a href="https://unsplash.com/s/photos/neuron-dna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
