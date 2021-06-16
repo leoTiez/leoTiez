@@ -9,7 +9,7 @@ I use a lot of Python in my projects, but I've been working with a large palette
 try to get a bit more native in Julia.
 
 Check out my research projects:
-- [modelling the DNA repair pathway](https://github.com/users/leoTiez/projects/1) (all repository are linked to this project)
+- [modelling the DNA repair pathway](https://github.com/users/leoTiez/projects/1) (all repositories are linked to this project)
 - [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
 - [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
 - [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
