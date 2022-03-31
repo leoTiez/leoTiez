@@ -5,10 +5,18 @@
 Hi there,
 
 I'm Leo, junior scientist at the CEA in Paris. I work on modelling complex biological systems, among others DNA repair mechanisms and neuronal processing.
-I use a lot of Python in my projects, but I've been working with a large palette of different languages, e.g. Java, JavaScript, C++, Solidity, and Julia. Currently, I try to get a bit more native in Julia.
+I use a lot of Python in my projects, but I've been working with a large variety of different languages, e.g. Java, JavaScript, C++, Solidity, and Julia. Currently, I try to get a bit more native in Julia.
 
-Check out my research projects:
-- [modelling the DNA repair pathway](https://github.com/users/leoTiez/projects/1) (all repositories are linked to this project)
+Check out my research projects. The highlights are listed below.
+- Repositories related to my PhD:
+  -  [A Quantitative Modelling Approach for DNA Repair on a Population Scale](https://github.com/leoTiez/jmak)
+  -  [Reaction-Diffusion ODE Parameter Search Framework](https://github.com/leoTiez/parameter-search-reaction-diffision)
+  -  [Simulation of Sequencing Data Using the Gillespie Algorithm](https://github.com/leoTiez/dense-nucleus)
+  -  [Random Reaction-Diffusion Interactions to Simulate Lesion Detection Assuming Heterochromatin](https://github.com/leoTiez/ChromReD4)
+  -  [Calculate Nucleosome Free Regions in MNase-seq Data](https://github.com/leoTiez/nfree)
+  -  [The Force-Field Analysis Framework for Large Data Sets W/ High Spatial Resolution](https://github.com/leoTiez/force-field-analysis)
+  -  [Create Plots for Linear Correlation Between Two Genomic Data Sets](https://github.com/leoTiez/linchange)
+  -  [Compare different NGS data according to different evaluation techniques](https://github.com/leoTiez/chromosomal-data-comparison)
 - [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
 - [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
 - [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
