@@ -14,7 +14,6 @@ Check out my research projects. The highlights are listed below.
   -  [Simulation of Sequencing Data Using the Gillespie Algorithm](https://github.com/leoTiez/dense-nucleus)
   -  [Random Reaction-Diffusion Interactions to Simulate Lesion Detection Assuming Heterochromatin](https://github.com/leoTiez/ChromReD4)
   -  [Calculate Nucleosome Free Regions in MNase-seq Data](https://github.com/leoTiez/nfree)
-  -  [The Force-Field Analysis Framework for Large Data Sets W/ High Spatial Resolution](https://github.com/leoTiez/force-field-analysis)
   -  [Create Plots for Linear Correlation Between Two Genomic Data Sets](https://github.com/leoTiez/linchange)
   -  [Compare different NGS data according to different evaluation techniques](https://github.com/leoTiez/chromosomal-data-comparison)
 - [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
