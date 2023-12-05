@@ -4,8 +4,8 @@
 
 Hi there,
 
-I'm Leo, junior scientist at the CEA in Paris. I work on modelling complex biological systems, among others DNA repair mechanisms and neuronal processing.
-I use a lot of Python in my projects, but I've been working with a large variety of different languages, e.g. Java, JavaScript, C++, Solidity, and Julia. Currently, I try to get a bit more native in Julia.
+I'm Leo, postdoc at Institut Pasteur in Paris. I work on modelling complex biological systems, among others DNA repair mechanisms and neuronal processing.
+I use a lot of Python in my projects, but I've been working with a large variety of different languages, e.g. R, Java, JavaScript, C++, Solidity, and Julia. 
 
 Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
