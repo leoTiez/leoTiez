@@ -20,7 +20,7 @@ Check out my research projects. The highlights are listed below.
 - [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
 - [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
 
-Contact me on [leo.zeitler@i2bc.paris-saclay.fr](leo.zeitler@i2bc.paris-saclay.fr) or [leo-laurenz.zeitler@cea.fr](leo-laurenz.zeitler@cea.fr).
+Contact me on [leo.zeitler@pasteur.fr](leo.zeitler@pasteur.fr).
 
 
 
