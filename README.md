@@ -11,9 +11,10 @@ Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
   -  [Functional Principal Component Analysis for Nucleosome Data](https://github.com/leoTiez/nucleosome-fpca)  
   -  [A Quantitative Modelling Approach for DNA Repair on a Population Scale](https://github.com/leoTiez/jmak)
-- [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
-- [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
-- [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
+- Repositories related to my master's in machine learning:
+  - [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
+  - [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
+  - [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
 
 Contact me on [leo.zeitler@pasteur.fr](leo.zeitler@pasteur.fr).
 
