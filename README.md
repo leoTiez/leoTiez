@@ -9,13 +9,8 @@ I use a lot of Python in my projects, but I've been working with a large variety
 
 Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
+  -  [Functional Principal Component Analysis for Nucleosome Data](https://github.com/leoTiez/nucleosome-fpca)  
   -  [A Quantitative Modelling Approach for DNA Repair on a Population Scale](https://github.com/leoTiez/jmak)
-  -  [Reaction-Diffusion ODE Parameter Search Framework](https://github.com/leoTiez/parameter-search-reaction-diffision)
-  -  [Simulation of Sequencing Data Using the Gillespie Algorithm](https://github.com/leoTiez/dense-nucleus)
-  -  [Random Reaction-Diffusion Interactions to Simulate Lesion Detection Assuming Heterochromatin](https://github.com/leoTiez/ChromReD4)
-  -  [Calculate Nucleosome Free Regions in MNase-seq Data](https://github.com/leoTiez/nfree)
-  -  [Create Plots for Linear Correlation Between Two Genomic Data Sets](https://github.com/leoTiez/linchange)
-  -  [Compare different NGS data according to different evaluation techniques](https://github.com/leoTiez/chromosomal-data-comparison)
 - [comparing the primary visual cortex in higher mammals and rodents](https://github.com/leoTiez/Dynamical-consequences-of-long-range-patchy-connections-in-the-neocortex)
 - [incorporating a Bayesian inference rule into the Numenta framework](https://github.com/leoTiez/htmresearch)
 - [reproduce the results of a recurrent convolutional neural network](https://github.com/leoTiez/dd2424)
