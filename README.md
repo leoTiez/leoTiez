@@ -4,8 +4,8 @@
 
 Hi there,
 
-I'm Leo, postdoc at Institut Pasteur in Paris. I work on modelling complex biological systems, among others DNA repair mechanisms and neuronal processing.
-I use a lot of Python in my projects, but I've been working with a large variety of different languages, e.g. R, Java, JavaScript, C++, Solidity, and Julia. 
+I'm Leo, passionate developer and particularly interested in harnessing biological principles for machine learning & AI. My experience stems from my work on modelling complex biological systems, among others DNA repair mechanisms, cross-species comparison of gene regulation, and neuronal processing.
+I use a lot of Python in my projects, but I've been working with a large variety of different languages, among others R, Java, JavaScript, C++, Solidity, and Julia. 
 
 Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
