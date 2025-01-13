@@ -9,6 +9,7 @@ I use a lot of Python in my projects, but I've been working with a large variety
 
 Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
+  -  [The Next-Generation Sequencing-Chess Problem](https://github.com/leoTiez/ngs-chess-conundrum)
   -  [Functional Principal Component Analysis for Nucleosome Data](https://github.com/leoTiez/nucleosome-fpca)  
   -  [A Quantitative Modelling Approach for DNA Repair on a Population Scale](https://github.com/leoTiez/jmak)
 - Repositories related to my master's in machine learning:
