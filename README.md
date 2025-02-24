@@ -9,6 +9,7 @@ I use a lot of Python in my projects, but I've been working with a large variety
 
 Check out my research projects. The highlights are listed below.
 - Repositories related to my PhD:
+  -  [A new machine learning framework to link single cell dynamics to static Next-Generation Sequencing data](https://github.com/leoTiez/Ruth-s-Gills-Pie)
   -  [The Next-Generation Sequencing-Chess Problem](https://github.com/leoTiez/ngs-chess-conundrum)
   -  [Functional Principal Component Analysis for Nucleosome Data](https://github.com/leoTiez/nucleosome-fpca)  
   -  [A Quantitative Modelling Approach for DNA Repair on a Population Scale](https://github.com/leoTiez/jmak)
